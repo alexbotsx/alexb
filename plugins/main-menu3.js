@@ -37,7 +37,7 @@ let handler = async (m, { isPrems, conn }) => {
 ┊⇾ .𝘭𝘰𝘨𝘰𝘷𝘪𝘥𝘦𝘰𝘨𝘢𝘮𝘪𝘯𝘨 (texto)
 ┊⇾ _.sadcat_ (texto)
 ┊⇾ _.tweet_ (comentario)
-╰ ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ _APOLOBOT_`
+╰ ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ _BOSSBOT_`
 
 	const fkontak = {
 		"key": {

@@ -387,7 +387,7 @@ let handler = async (m, { isPrems, conn }) => {
 ┃⋗ 📝 *.unreg*  
 ┗━━━━━━━━━━━━━━┛
 
-> @ApoloBot`
+> @BOSSBot`
 
    const fkontak = {
       "key": {

@@ -15,13 +15,13 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51906002517', 'Alexnn', true],
-  ['51906002517', 'Alexnn', true],
-  ['51906002517', 'Alexnn', true],
-  ['51906002517'],
-  ['51906002517'],
-  ['51906002517'],
-  ['51906002517'],
+  ['5218125788206', 'Alexnn', true],
+  ['5218125788206', 'Alexnn', true],
+  ['5218125788206', 'Alexnn', true],
+  ['5218125788206'],
+  ['5218125788206'],
+  ['5218125788206'],
+  ['5218125788206'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -46,18 +46,18 @@ global.baileys = '@whiskeysockets/baileys'
 global.vs = '2.0.7'
 global.languaje = 'Español'
 global.nameqr = 'Sisked-x'
-global.namebot = '@ApoloBot'
-global.sessions = 'APOLOBOTSession'
-global.jadi = 'APOLOBOTJadiBot'
+global.namebot = '@BOSSBot'
+global.sessions = 'BOSSBOTSession'
+global.jadi = 'BOSSBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '@ApoloBot'
-global.botname = '@ApoloBot'
+global.packname = '@BOSSBot'
+global.botname = '@BOSSBot'
 global.wm = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵'
-global.author = '@ApoloBot'
+global.author = '@BOSSBot'
 global.dev = '𝙉𝙤𝙩 𝙈𝙮 𝙋𝙧𝙤𝙡𝙚𝙢𝙖'
-global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 @ApoloBot'
+global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 @BOSSBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -67,16 +67,16 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'hhttps://chat.whatsapp.com/CENH3OGz094GP1asJEIIie?mode=r_c'
-global.channel = 'hhttps://chat.whatsapp.com/CENH3OGz094GP1asJEIIie?mode=r_c'
-global.channel2 = 'hhttps://chat.whatsapp.com/CENH3OGz094GP1asJEIIie?mode=r_c'
+global.grupo = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.channel = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.channel2 = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
 global.md = 'https://wa.me/qr/PAOHAKCEHGUXN1'
-global.ig = 'hhttps://chat.whatsapp.com/CENH3OGz094GP1asJEIIie?mode=r_c'
-global.tiktok = 'hhttps://chat.whatsapp.com/CENH3OGz094GP1asJEIIie?mode=r_c'
+global.ig = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.tiktok = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51906002517-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount: -999999, status: 1, surface: 1, message: 'Ai Otho - MD', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net' } } }
+global.estilo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5218125788206-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount: -999999, status: 1, surface: 1, message: 'Ai Otho - MD', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net' } } }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
