@@ -58,7 +58,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
           body: dev,
           mediaUrl: pp,
           mediaType: 2,
-          thumbnailUrl: 'https://cdn.russellxz.click/37c5ea8a.png',
+          thumbnailUrl: 'https://cdn.russellxz.click/494efd47.jpeg',
           thumbnail: img
         }
       },
@@ -91,7 +91,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
           body: dev,
           mediaUrl: pp,
           mediaType: 2,
-          thumbnailUrl: 'https://cdn.russellxz.click/37c5ea8a.png',
+          thumbnailUrl: 'https://cdn.russellxz.click/494efd47.jpeg',
           thumbnail: img
         }
       },
